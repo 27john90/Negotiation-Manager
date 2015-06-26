@@ -1,0 +1,2 @@
+# Negotiation-Manager
+Capstone project
